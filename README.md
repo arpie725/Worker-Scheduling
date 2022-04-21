@@ -1,7 +1,7 @@
 Author: Ryan Phung
 Date: April 14, 2022
 
-** Using recursive backtracking to schedule works given an availability matrix (described below)
+** Using recursive backtracking to schedule workers given an availability matrix (described below)
 ** Constraints: 
     -Workers cannot work twice in a day (have 2 shifts on the same day)
     -Workers cannot exceed the max number of shifts allowed (given by user)
